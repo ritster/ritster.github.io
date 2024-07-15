@@ -9,6 +9,30 @@ header {
     padding: 10px;
 }
 
+header a:link {
+    color: #F7E987;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  header a:visited {
+    color: #FFA200;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  header a:hover {
+    color: #F7E987;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  header a:active {
+    color: #FFA200;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
 img.main-logo {
     width: 200px;
     height: 200px;
